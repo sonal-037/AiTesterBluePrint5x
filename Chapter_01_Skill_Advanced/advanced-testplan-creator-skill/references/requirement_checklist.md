@@ -3,6 +3,7 @@
 Score every row: ✅ present · ⚠️ ambiguous · ❌ missing. Every ⚠️/❌ becomes a
 question for the ticket author.
 
+
 ## Functional
 - [ ] Clear user story / goal ("As a … I want … so that …")
 - [ ] Acceptance criteria are testable (observable pass/fail)
